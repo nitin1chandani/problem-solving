@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/nitin1chandani/problem-solving/tree/master/0746-min-cost-climbing-stairs) |
 | [1386-cinema-seat-allocation](https://github.com/nitin1chandani/problem-solving/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/nitin1chandani/problem-solving/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/nitin1chandani/problem-solving/tree/master/1872-stone-game-viii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/nitin1chandani/problem-solving/tree/master/0746-min-cost-climbing-stairs) |
 | [1563-stone-game-v](https://github.com/nitin1chandani/problem-solving/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/nitin1chandani/problem-solving/tree/master/1872-stone-game-viii) |
 ## Simulation
