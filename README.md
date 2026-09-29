@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nitin1chandani/problem-solving/tree/master/0078-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/nitin1chandani/problem-solving/tree/master/0746-min-cost-climbing-stairs) |
 | [1386-cinema-seat-allocation](https://github.com/nitin1chandani/problem-solving/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/nitin1chandani/problem-solving/tree/master/1563-stone-game-v) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nitin1chandani/problem-solving/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/nitin1chandani/problem-solving/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nitin1chandani/problem-solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nitin1chandani/problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/nitin1chandani/problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/nitin1chandani/problem-solving/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
