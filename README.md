@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nitin1chandani/problem-solving/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/nitin1chandani/problem-solving/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/nitin1chandani/problem-solving/tree/master/0208-implement-trie-prefix-tree) |
 | [1927-sum-game](https://github.com/nitin1chandani/problem-solving/tree/master/1927-sum-game) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nitin1chandani/problem-solving/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/nitin1chandani/problem-solving/tree/master/0115-distinct-subsequences) |
 | [0746-min-cost-climbing-stairs](https://github.com/nitin1chandani/problem-solving/tree/master/0746-min-cost-climbing-stairs) |
 | [1563-stone-game-v](https://github.com/nitin1chandani/problem-solving/tree/master/1563-stone-game-v) |
@@ -203,8 +205,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nitin1chandani/problem-solving/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/nitin1chandani/problem-solving/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/nitin1chandani/problem-solving/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/nitin1chandani/problem-solving/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/nitin1chandani/problem-solving/tree/master/0078-subsets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/nitin1chandani/problem-solving/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
