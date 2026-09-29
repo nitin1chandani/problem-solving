@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/nitin1chandani/problem-solving/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/nitin1chandani/problem-solving/tree/master/0078-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/nitin1chandani/problem-solving/tree/master/0746-min-cost-climbing-stairs) |
 | [1386-cinema-seat-allocation](https://github.com/nitin1chandani/problem-solving/tree/master/1386-cinema-seat-allocation) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/nitin1chandani/problem-solving/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/nitin1chandani/problem-solving/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/nitin1chandani/problem-solving/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
