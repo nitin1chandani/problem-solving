@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/nitin1chandani/problem-solving/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/nitin1chandani/problem-solving/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/nitin1chandani/problem-solving/tree/master/0078-subsets) |
+| [0380-insert-delete-getrandom-o1](https://github.com/nitin1chandani/problem-solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0746-min-cost-climbing-stairs](https://github.com/nitin1chandani/problem-solving/tree/master/0746-min-cost-climbing-stairs) |
 | [1386-cinema-seat-allocation](https://github.com/nitin1chandani/problem-solving/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/nitin1chandani/problem-solving/tree/master/1563-stone-game-v) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/nitin1chandani/problem-solving/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/nitin1chandani/problem-solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [1386-cinema-seat-allocation](https://github.com/nitin1chandani/problem-solving/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nitin1chandani/problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nitin1chandani/problem-solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/nitin1chandani/problem-solving/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/nitin1chandani/problem-solving/tree/master/0380-insert-delete-getrandom-o1) |
 ## Trie
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/nitin1chandani/problem-solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [1563-stone-game-v](https://github.com/nitin1chandani/problem-solving/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/nitin1chandani/problem-solving/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/nitin1chandani/problem-solving/tree/master/1927-sum-game) |
@@ -214,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nitin1chandani/problem-solving/tree/master/0022-generate-parentheses) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/nitin1chandani/problem-solving/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
