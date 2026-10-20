@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/nitin1chandani/problem-solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitin1chandani/problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/nitin1chandani/problem-solving/tree/master/0226-invert-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nitin1chandani/problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/nitin1chandani/problem-solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitin1chandani/problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/nitin1chandani/problem-solving/tree/master/0226-invert-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nitin1chandani/problem-solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/nitin1chandani/problem-solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitin1chandani/problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/nitin1chandani/problem-solving/tree/master/0226-invert-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nitin1chandani/problem-solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
